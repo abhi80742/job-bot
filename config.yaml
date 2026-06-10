@@ -1,0 +1,28 @@
+your_name: "Karne Abhishek"
+your_email: "karneabhishek08@gmail.com"
+your_phone: "+91 8074227814"
+location: "Hyderabad, Telangana"
+
+skills:
+  - Python
+  - JavaScript
+  - HTML5
+  - CSS3
+  - Data Analysis
+  - AI Solutions
+  - Git
+  - GitHub
+  - Full Stack Development
+  - Responsive Design
+  - Frontend Development
+  - Backend Development
+
+experience_years: 1
+min_match_score: 10
+
+job_search:
+  keywords: "Full Stack Developer Python"
+  location: "Hyderabad"
+  remote_ok: true
+
+schedule_hours: 4

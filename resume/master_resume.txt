@@ -1,0 +1,41 @@
+KARNE ABHISHEK
+Full Stack Developer | Python & AI Solutions
+karneabhishek08@gmail.com | +91 8074227814 | Hyderabad, Telangana
+
+PROFESSIONAL SUMMARY
+Results-driven Computer Science graduate with hands-on experience in Full Stack
+Development, Python programming, and AI-driven solutions. Proven ability to build
+scalable web applications, collaborate effectively with cross-functional teams,
+and deliver technology solutions that solve real-world business problems.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, HTML5, CSS3
+Frontend: HTML, CSS, JavaScript, Responsive Design
+Backend: Python
+Data and AI: Data Analysis, AI Solutions
+Tools: Git, GitHub, VS Code, Development and Debugging Tools
+Soft Skills: Communication, Teamwork, Problem Solving, Time Management, Adaptability
+
+PROFESSIONAL EXPERIENCE
+
+Associate Software Engineer | Crestonix Global Solution | Current
+- Developed and customized full-stack web applications using Python and JavaScript
+- Assisted in software deployment and technical documentation
+
+Full Stack Developer Intern | Yhills | Aug 2023 to Oct 2023
+- Contributed to frontend (HTML, CSS, JavaScript) and backend (Python) development
+- Participated in code reviews, debugging sessions, and pair programming
+- Gained hands-on experience across the full software development lifecycle
+
+Business Development Intern | SkillDunia | Jan 2025 to Jun 2025
+- Conducted targeted lead generation and customer outreach campaigns
+- Supported sales pipeline management and customer engagement strategies
+
+EDUCATION
+Bachelor of Computer Science (BSc)
+Jagruthi Degree College, Osmania University
+Graduated: June 2024 | Percentage: 75%
+
+CERTIFICATIONS
+- Full Stack Web Development Certification - Yhills
+- Python Programming Certification - SV Infotech
